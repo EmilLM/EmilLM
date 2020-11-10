@@ -7,7 +7,7 @@
 
 Hey there 👋,
 
-I'm a full stack web developer focused on javascript technologies with a focus on Node, Express, React and MongoDB. After switching from a career as a researcher of world affairs, I fell in love with coding where logic and reason reign supreme. Now, I strive everyday to improve and expand my skills by developing various projects.
+I'm a full stack web developer focused on javascript technologies with a focus on <strong>MongoDB, Express,React and Node</strong>. After switching from a career as a researcher of world affairs, I fell in love with coding where logic and reason reign supreme. Now, I strive everyday to improve and expand my skills by developing various projects.
 
 Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojects.site</a>, leave some feedback or just say hello.
 
