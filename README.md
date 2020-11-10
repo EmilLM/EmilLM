@@ -2,7 +2,7 @@
 
 
 <p>
-  <img width="200" align='right' src="https://github.com/EmilLM/EmilLM/blob/main/projects.png">
+  <a href="https://github.com/EmilLM/EmilLM/blob/main/projects.png"><img width="200" align='right' src="https://github.com/EmilLM/EmilLM/blob/main/projects.png"></a>
 </p>
 
 Hey there 👋,
