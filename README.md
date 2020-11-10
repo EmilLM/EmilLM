@@ -18,6 +18,6 @@ Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojec
 </p>
 
 
-![](https://img.shields.io/badge/JS-JS-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JS&logoColor=white&color=2bbc8a)
  
 
