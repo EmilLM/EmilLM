@@ -28,12 +28,10 @@ Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojec
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe&logoColor=white&color=31A8FF)
 
 <p align='center'>
-
-<a href="https://www.linkedin.com/in/emil-luchian-990/"><img height="30" src="https://github.com/EmilLM/EmilLM/blob/main/linkedin.svg?raw=true"></a>
-<a mailto="luchianemil@gmail.com"><img height="30" src="https://github.com/EmilLM/EmilLM/blob/main/gmail.svg?raw=true"></a>
-<a href="https://www.facebook.com/luchian.emil/"><img height="30" src="https://github.com/EmilLM/EmilLM/blob/main/facebook.svg?raw=true"></a>
-
-</p>
+  <a href="https://www.linkedin.com/in/emil-luchian-990/"><img height="30" src="https://github.com/EmilLM/EmilLM/blob/main/linkedin.svg?raw=true"></a>&nbsp;
+  <a mailto="luchianemil@gmail.com"><img height="30" src="https://github.com/EmilLM/EmilLM/blob/main/gmail.svg?raw=true"></a>&nbsp;
+  <a href="https://www.facebook.com/luchian.emil/"><img height="30" src="https://github.com/EmilLM/EmilLM/blob/main/facebook.svg?raw=true"></a>
+ </p>
 
 
 
