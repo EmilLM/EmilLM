@@ -19,9 +19,9 @@ Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojec
 
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=004A9D)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=004A9D)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=004A9D)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=004A9D)
+![](https://img.shields.io/badge/UI-React-informational?style=flat&logo=React&logoColor=white&color=004A9D)
+![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=004A9D)
+![](https://img.shields.io/badge/Style-Scss-informational?style=flat&logo=Sass&logoColor=white&color=004A9D)
 
 
  
