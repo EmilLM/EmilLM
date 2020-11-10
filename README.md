@@ -8,6 +8,6 @@ I create blog posts and open source packages mainly about python and data engine
 
   ---
  
- <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
 </p>
