@@ -1,4 +1,4 @@
-[![Header](https://github.com/EmilLM/EmilLM/blob/main/gh-banner.png/<OWNER>/<OWNER>/gh-banner.png "Header")](https://emilsprojects.site/)
+[![Header](https://raw.githubusercontent.com/EmilLM/EmilLM/master/gh-banner.png "Header")](https://emilsprojects.site/)
 
 
 ### Hi there 👋
