@@ -25,7 +25,7 @@ Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojec
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=red)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQL&logoColor=white&color=004A9D)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=AdobePhotoshop&logoColor=white&color=004A9D)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe&logoColor=white&color=#31A8FF)
 
 
 
