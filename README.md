@@ -7,8 +7,14 @@
 
 Hey there 👋,
 
+I'm a full stack web developer focused on javascript technologies with a focus on Node, Express, React and Next.js. After switching from a career as a researcher of world affairs, I fell in love with coding where logic and reason reign supreme. Now, I strive everyday to improve and expand my skills by developing various projects.
+
+Feel free to checkout my latest work on emilsprojects.site, leave some feedback or just say hello.
+
+
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
   ---
  
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
+
