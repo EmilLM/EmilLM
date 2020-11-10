@@ -11,10 +11,12 @@ I'm a full stack web developer focused on javascript technologies with a focus o
 
 Feel free to checkout my latest work on emilsprojects.site, leave some feedback or just say hello.
 
+---
 
  <p>
-  <img width="250" align='left' src="https://github.com/EmilLM/EmilLM/blob/main/logo.png">
+  <img width="150" align='left' src="https://github.com/EmilLM/EmilLM/blob/main/logo.png">
 </p>
-  ---
+
+
  
 
