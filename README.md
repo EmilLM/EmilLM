@@ -26,8 +26,14 @@ Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojec
 ![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=red)
 ![](https://img.shields.io/badge/API-GraphQl-informational?style=flat&logo=GraphQL&logoColor=white&color=004A9D)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe&logoColor=white&color=31A8FF)
-![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=FFCA28)
 
+<p align='center'>
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 
 
