@@ -7,7 +7,7 @@
 
 Hey there 👋,
 
-I'm a full stack web developer focused on javascript technologies with a focus on Node, Express, React and Next.js. After switching from a career as a researcher of world affairs, I fell in love with coding where logic and reason reign supreme. Now, I strive everyday to improve and expand my skills by developing various projects.
+I'm a full stack web developer focused on javascript technologies with a focus on Node, Express, React and MongoDB. After switching from a career as a researcher of world affairs, I fell in love with coding where logic and reason reign supreme. Now, I strive everyday to improve and expand my skills by developing various projects.
 
 Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojects.site</a>, leave some feedback or just say hello.
 
@@ -22,6 +22,9 @@ Feel free to checkout my latest work on <a href="emilsprojects.site">emilsprojec
 ![](https://img.shields.io/badge/UI-React-informational?style=flat&logo=React&logoColor=white&color=004A9D)
 ![](https://img.shields.io/badge/Next.js-informational?style=flat&logo=Next.js&logoColor=white&color=004A9D)
 ![](https://img.shields.io/badge/Style-Scss-informational?style=flat&logo=Sass&logoColor=white&color=004A9D)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
+![](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=Jest&logoColor=white&color=004A9D)
+
 
 
  
