@@ -13,7 +13,7 @@ Feel free to checkout my latest work on emilsprojects.site, leave some feedback 
 
 
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/EmilLM/EmilLM/blob/main/logo.png">
 </p>
   ---
  
